@@ -6,6 +6,7 @@
   <a href="https://ahsaan-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
   <a href="mailto:ahsaanmunir53@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Live_apps-10-22D3EE?style=for-the-badge&labelColor=0B1020" alt="10 live apps" />
   <img src="https://komarev.com/ghpvc/?username=ahsaanmunir53&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -33,19 +34,22 @@ const ahsaan = {
 
 I build products end to end: the React front end, the Node or Python API behind it, the database, and the AI part when there is one. Most of my apps are live and used by real people, including a production site for a client. I care about the parts nobody sees too, like confirming payments on the server and switching off the camera when a page closes.
 
-### Featured work
+### Live work
 
-| Project | What it does | Built with | |
+| # | Project | What it does | Links |
 |---|---|---|---|
-| **Fatima Hope** | Production website for a psychological care organisation; their team updates content through an admin panel | React, TypeScript, Node, Express | [Live](https://www.fatima-hope.org) |
-| **MAHRU** | Online store with Stripe checkout, a role-based admin and order management | MongoDB, Express, React, Node, Stripe | [Live](https://mahru-store.onrender.com) |
-| **Sign Bridge** | Turns Urdu sign language into text in real time (40 signs), with a 3D avatar that signs words back | React, Express, MongoDB, Flask, MediaPipe | [Code](https://github.com/ahsaanmunir53/Real-Time-Urdu-Sign-Language) |
-| **DocMind** | Ask questions about your documents; hybrid keyword and vector search, and every answer cites its page | Django, RAG | |
-| **Monal AI** | Voice agent that answers phone calls in English and Urdu, with WhatsApp confirmations | Python, LLM APIs | |
-| **LUMÉRA** | Salon website with services, pricing and live booking | React, Node | [Live](https://lumera-salon.onrender.com) |
-| **QAHVA** | Café website with online ordering; the owner manages the menu himself | React, Node | [Live](https://qahva-cafe.onrender.com) |
+| 1 | **Fatima Hope** | Production website for a psychological care organisation. Their team updates content through an admin panel. React, TypeScript, Node and Express. | [Live](https://www.fatima-hope.org) |
+| 2 | **MAHRU** | Online store with Stripe checkout, a role-based admin and order management, built on the MERN stack. | [Live](https://mahru-store.onrender.com) |
+| 3 | **Sign Bridge** | Turns Urdu sign language into text in real time (40 signs), with a 3D avatar that signs words back. React, Express, MongoDB, and a Flask ML service with MediaPipe. | [Live](https://sign-web-v7cj.onrender.com) · [Code](https://github.com/ahsaanmunir53/Real-Time-Urdu-Sign-Language) |
+| 4 | **DocMind** | Ask questions about your own documents. Hybrid keyword and vector search, and every answer cites the page it came from. Built with Django. | [Live](https://documind-blru.onrender.com) |
+| 5 | **Monal AI** | Voice agent that answers phone calls in English and Urdu, and confirms over WhatsApp. | [Live](https://monal-ai.onrender.com) |
+| 6 | **SEHAT** | Health assistant that screens for emergencies with fixed rules before any AI answer. | [Live](https://sehat-g2f6.onrender.com) |
+| 7 | **JobMatch AI** | Matches a CV against job descriptions and shows how well they fit. | [Live](https://jobmatch-ai-lee4.onrender.com) |
+| 8 | **LUMÉRA** | Salon website with services, pricing and live booking. | [Live](https://lumera-salon.onrender.com) |
+| 9 | **QAHVA** | Café website with online ordering, where the owner manages the menu himself. | [Live](https://qahva-cafe.onrender.com) |
+| 10 | **Portfolio** | My portfolio with its own admin panel: JWT login in an httpOnly cookie and protected CRUD routes. Node, Express and MongoDB. | [Live](https://ahsaan-portfolio.onrender.com) · [Code](https://github.com/ahsaanmunir53/Portfolio) |
 
-<sub>The onrender.com sites run on free hosting and can take about 30 seconds to wake up.</sub>
+<sub>The onrender.com apps run on free hosting and can take about 30 seconds to wake up the first time.</sub>
 
 ### Tech stack
 

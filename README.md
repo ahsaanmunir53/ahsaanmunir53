@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://ahsaan-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
   <a href="mailto:ahsaanmunir53@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ahsaan-munir-3a288a321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/ahsaan-munir-3a288a321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Live_apps-10-22D3EE?style=for-the-badge&labelColor=0B1020" alt="10 live apps" />
   <img src="https://komarev.com/ghpvc/?username=ahsaanmunir53&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
